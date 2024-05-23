@@ -7,7 +7,7 @@
 <h2>📃  Certifications</h2>
 
 - [Google IT Support Professional](https://imgur.com/a/srCmrnx)
-
+- [CompTIA A+](https://imgur.com/IJaKypz)
 
 <h2> 🤳 Connect with me:</h2>
 
