@@ -6,7 +6,7 @@
 
 <h2>📃  Certifications</h2>
 
-- [Google IT Support Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google IT Support Professional](https://imgur.com/a/srCmrnx)
 
 
 <h2> 🤳 Connect with me:</h2>
