@@ -7,6 +7,7 @@
 <h2>📃  Certifications</h2>
 
 - [Google IT Support Professional](https://imgur.com/a/srCmrnx)
+- [ITILv4](https://imgur.com/a/Nde6YHM)
 - [CompTIA A+](https://imgur.com/IJaKypz)
 - [CompTIA Network+](https://imgur.com/a/hbKIZOt)
 - [CompTIA Security+](https://imgur.com/a/Nde6YHM)
