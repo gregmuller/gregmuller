@@ -8,7 +8,7 @@
 
 - [Google IT Support Professional](https://imgur.com/a/srCmrnx)
 - [CompTIA A+](https://imgur.com/IJaKypz)
-- - [CompTIA Network +](https://imgur.com/a/hbKIZOt)
+- [CompTIA Network +](https://imgur.com/a/hbKIZOt)
 
 
 <h2> 🤳 Connect with me:</h2>
