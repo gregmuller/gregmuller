@@ -3,6 +3,7 @@
   <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/gregmuller/ActiveDirectoryLab)
+  - [SIEM Home Lab](https://github.com/gregmuller/SIEMAzureAttack)
 
 <h2>📃  Certifications</h2>
 
