@@ -11,6 +11,7 @@
 - [CompTIA A+](https://imgur.com/IJaKypz)
 - [CompTIA Network+](https://imgur.com/a/hbKIZOt)
 - [CompTIA Security+](https://imgur.com/a/Nde6YHM)
+- [BTL1](https://imgur.com/a/E9OBXdi)
 
 
 <h2> 🤳 Connect with me:</h2>
